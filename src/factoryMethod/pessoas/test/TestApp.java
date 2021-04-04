@@ -1,7 +1,6 @@
 package factoryMethod.pessoas.test;
 
 import org.junit.jupiter.api.Test;
-
 import factoryMethod.pessoas.FactoryPessoa;
 import factoryMethod.pessoas.Genero;
 
